@@ -1,0 +1,13 @@
+.bg-primary {
+  background-color: #212529!important;
+}
+
+a {
+  color: #000;
+  transition: all .2s;
+}
+
+a:hover {
+  color: #000;
+}
+
